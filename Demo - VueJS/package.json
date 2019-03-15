@@ -1,0 +1,23 @@
+{
+  "name": "market-intel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/vkbamania/market-intel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vkbamania/market-intel/issues"
+  },
+  "homepage": "https://gitlab.com/vkbamania/market-intel#README",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
